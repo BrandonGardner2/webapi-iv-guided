@@ -4,6 +4,8 @@
   "description": "Guided project for **Web API IV** module.",
   "main": "index.js",
   "scripts": {
+    "server": "nodemon index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,6 +26,7 @@
     "sqlite3": "^4.0.6"
   },
   "devDependencies": {
+    "nodemon": "^1.18.10",
     "knex-cleaner": "^1.1.4"
   }
 }
