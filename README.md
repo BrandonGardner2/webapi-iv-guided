@@ -1,6 +1,6 @@
 # Web API Deployment Challenge
 
-Guided project for **Web API IV** module.
+Guided project for **Web API IV** module..
 
 In this project we will learn how to deploy a Web API to `heroku`.
 
